@@ -2,16 +2,43 @@
 Starting my journey in backend engineering, following the [roadmap.sh backend roadmap](https://roadmap.sh/backend) 
 
 ## Learning Roadmap:
-- **Phase 1: Core Internet & API Fundamentals**
-  - RESTful principles, HTTP methods, status codes, JSON serialization.
-- **Phase 2: Spring Boot Core & Kotlin Ecosystem**
-  - IoC, Dependency Injection, Spring Web (`@RestController`), Gradle Kotlin DSL.
-- **Phase 3: Databases & Data Persistence**
-  - PostgreSQL, Spring Data JPA, Hibernate, Flyway migrations.
-- **Phase 4: Security & Validation**
-  - Jakarta Validation, Spring Security, JWT Authentication.
-- **Phase 5: Testing & Deployment**
-  - JUnit 5, Mockito, Docker & Docker Compose.
+- **Phase 1: Core Fundamentals (Language Agnostic)**
+  - Internet & Networking
+  - REST API Principles
+  - Serialization
+
+- **Phase 2: Kotlin & Spring Boot Framework Core**
+  - Spring IoC & Dependency Injection
+  - Spring MVC
+  - Gradle with Kotlin DSL
+  - Input Validation
+
+- **Phase 3: Data Persistence & SQL Basics**
+  - Relational Databases (PostgreSQL)
+  - Spring Data JPA & Hibernate
+  - Database Migrations
+
+- **Phase 4: Authentication, Authorization & Security**
+  - Spring Security
+  - JWT (JSON Web Tokens)
+  - Web Security Best Practices
+
+- **Phase 5: Intermediate — Caching & Asynchronous Messaging**
+  - In-Memory Caching (Redis)
+  - Message Brokers & Queues
+  - NoSQL (MongoDB)
+
+- **Phase 6: Advanced — System Design & Scalability Patterns**
+  - Architectural Patterns
+  - Load Balancing & Reverse Proxies
+  - Scalability Concepts
+  - Resilience
+
+- **Phase 7: Testing, DevOps & Observability**
+  - Automated Testing
+  - Containerization
+  - CI/CD Pipelines
+  - Observability & Monitoring
      
 ## Tech Stack:
 - **Language:** Kotlin
