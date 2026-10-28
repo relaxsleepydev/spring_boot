@@ -51,3 +51,5 @@ Starting my journey in backend engineering, following the [roadmap.sh backend ro
 - Official spring documentation and guides
 - Baeldung or Medium
 - Youtube
+- MDN docs
+- Cloudflare
